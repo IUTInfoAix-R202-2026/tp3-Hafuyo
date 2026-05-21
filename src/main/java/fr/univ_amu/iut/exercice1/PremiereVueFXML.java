@@ -50,7 +50,7 @@ public class PremiereVueFXML extends Application {
     Scene scene = new Scene(root);
     primaryStage.setScene(scene);
 
-    primaryStage.setTitle("Ma première vue FXML !");
+    primaryStage.setTitle("Première vue FXML");
     primaryStage.show();
   }
 }
